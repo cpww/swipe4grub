@@ -1,0 +1,20 @@
+{
+  "name": "swipe-for-food",
+  "version": "0.0.0",
+  "authors": [
+    "Anthony D'Andrea <anthony.dandrea@me.com>"
+  ],
+  "description": "Swiping interface for finding restaurants",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-swing": "*",
+    "angular": "~1.4.1"
+  }
+}
