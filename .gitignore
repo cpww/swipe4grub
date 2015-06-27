@@ -1,0 +1,20 @@
+# Ignore Sass' cache
+*/.sass-cache
+.sass-cache
+*.css.map
+
+# Ignore .DS_store file
+.DS_Store
+
+# AWS config
+.aws-config.json
+.awspublish-foxmediacontainer
+
+# Node modules
+node_modules
+npm-debug.log
+
+# Bower modules
+bower_components
+
+Gemfile.lock
